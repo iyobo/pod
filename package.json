@@ -1,6 +1,6 @@
 {
-  "name": "pod",
-  "version": "0.9.1",
+  "name": "jollof-pod",
+  "version": "1.0.0",
   "preferGlobal": true,
   "author": {
     "name": "Evan You",
